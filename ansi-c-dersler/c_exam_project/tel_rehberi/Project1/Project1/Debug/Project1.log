@@ -1,0 +1,17 @@
+﻿  rehber.c
+d:\comp124_ansi_c\comp124_exam_project\comp124_resit_exam\project1\project1\rehber.h(28): warning C4005: 'RAW_DOSYA': macro redefinition
+  d:\comp124_ansi_c\comp124_exam_project\comp124_resit_exam\project1\project1\rehber.h(25): note: see previous definition of 'RAW_DOSYA'
+d:\comp124_ansi_c\comp124_exam_project\comp124_resit_exam\project1\project1\rehber.c(104): warning C4047: '==': 'int' differs in levels of indirection from 'char [8]'
+d:\comp124_ansi_c\comp124_exam_project\comp124_resit_exam\project1\project1\rehber.c(115): warning C4018: '<': signed/unsigned mismatch
+d:\comp124_ansi_c\comp124_exam_project\comp124_resit_exam\project1\project1\rehber.c(231): warning C4018: '<': signed/unsigned mismatch
+d:\comp124_ansi_c\comp124_exam_project\comp124_resit_exam\project1\project1\rehber.c(289): warning C4018: '<': signed/unsigned mismatch
+d:\comp124_ansi_c\comp124_exam_project\comp124_resit_exam\project1\project1\rehber.c(291): warning C4018: '<': signed/unsigned mismatch
+d:\comp124_ansi_c\comp124_exam_project\comp124_resit_exam\project1\project1\rehber.c(362): warning C4018: '>=': signed/unsigned mismatch
+d:\comp124_ansi_c\comp124_exam_project\comp124_resit_exam\project1\project1\rehber.c(386): warning C4101: 'i': unreferenced local variable
+d:\comp124_ansi_c\comp124_exam_project\comp124_resit_exam\project1\project1\rehber.c(409): warning C4018: '<': signed/unsigned mismatch
+d:\comp124_ansi_c\comp124_exam_project\comp124_resit_exam\project1\project1\rehber.c(441): warning C4018: '<': signed/unsigned mismatch
+d:\comp124_ansi_c\comp124_exam_project\comp124_resit_exam\project1\project1\rehber.c(457): warning C4018: '<': signed/unsigned mismatch
+d:\comp124_ansi_c\comp124_exam_project\comp124_resit_exam\project1\project1\rehber.c(508): warning C4018: '<': signed/unsigned mismatch
+d:\comp124_ansi_c\comp124_exam_project\comp124_resit_exam\project1\project1\rehber.c(561): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> D:\COMP124_ANSI_C\comp124_exam_project\Comp124_resit_exam\Project1\Debug\Project1.exe
+  Project1.vcxproj -> D:\COMP124_ANSI_C\comp124_exam_project\Comp124_resit_exam\Project1\Debug\Project1.pdb (Partial PDB)

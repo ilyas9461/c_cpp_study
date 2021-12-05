@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------------------
+Name		:DANIEL
+Surname		:MHLANGA
+Student No	:194057
+Department	:Computer Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	A	24.0
+PHYS104        PHYSICS II                         	6	B-	16.2
+COMP209        DISCRETE MATHEMATICS               	6	B+	19.8
+COMP217        DATA STRUCTURES                    	7	A-	25.9
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	A-	22.2
+-----------------------------------------------------------------------------------------
+Total credit earned: 108.1
+Total credit hour: 31.0
+GPA: 3.49 
+-----------------------------------------------------------------------------------------

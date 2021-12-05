@@ -1,0 +1,2 @@
+C:\Users\ilyas\Desktop\COMP124_ANSI_C\odev_final_transcript\comp124_final_VS2019\Debug\comp124_final.exe
+C:\Users\ilyas\Desktop\COMP124_ANSI_C\odev_final_transcript\comp124_final_VS2019\Debug\comp124_final.pdb

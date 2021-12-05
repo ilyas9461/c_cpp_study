@@ -1,0 +1,13 @@
+1- Klavyeden girilen bir dizi  tam sayýdan çift vet olanlarýný ayrý ayrý dizilere alarak konsola yazdýrmak için c dilinde bir program yazýnýz. 
+
+2-Bir dizinin elemanlarýný baþka bir diziye kopyalamak için C dilinde bir program yazýn.
+
+3- Bir dizinin elemanlarýný tersine çevirmek için c dilinde bir program yazýn.
+
+4- Bir dizideki tekrar eden sayýlarý ve tekrar miktarlarýný gösteren c dilinde bir program yazýn.
+
+5- Dizi elemanlarýný küçükten büyüðe doðru sýralama
+
+6- Azalan düzende sýralanmýþ ayný boyuttaki iki diziyi birleþtirmek için C'de bir program yazýn
+
+7- Bir dizideki en büyük ikinci elemaný bulan bir C programý yazýnýz.

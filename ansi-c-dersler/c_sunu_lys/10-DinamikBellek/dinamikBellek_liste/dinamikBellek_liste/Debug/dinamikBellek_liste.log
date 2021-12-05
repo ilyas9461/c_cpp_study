@@ -1,0 +1,7 @@
+﻿  helper.c
+d:\comp124_ansi_c\sunu_lys\10-dinamikbellek\dinamikbellek_liste\dinamikbellek_liste\helper.c(38): warning C4477: 'scanf' : format string '%2c' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+d:\comp124_ansi_c\sunu_lys\10-dinamikbellek\dinamikbellek_liste\dinamikbellek_liste\helper.c(48): warning C4013: 'tolower' undefined; assuming extern returning int
+d:\comp124_ansi_c\sunu_lys\10-dinamikbellek\dinamikbellek_liste\dinamikbellek_liste\helper.c(59): warning C4013: 'gets' undefined; assuming extern returning int
+d:\comp124_ansi_c\sunu_lys\10-dinamikbellek\dinamikbellek_liste\dinamikbellek_liste\helper.c(192): warning C4101: 'value': unreferenced local variable
+  dinamikBellek_liste.vcxproj -> D:\COMP124_ANSI_C\sunu_lys\10-DinamikBellek\dinamikBellek_liste\Debug\dinamikBellek_liste.exe
+  dinamikBellek_liste.vcxproj -> D:\COMP124_ANSI_C\sunu_lys\10-DinamikBellek\dinamikBellek_liste\Debug\dinamikBellek_liste.pdb (Partial PDB)

@@ -1,0 +1,475 @@
+---------------------------------------------------------------------------------------
+Name		:VIANNEY
+Surname		:DUSHIME
+Student No	:194162
+Department	:Electronics and Communication Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	C+	13.8
+PHYS104        PHYSICS II                         	6	B-	16.2
+COMP209        DISCRETE MATHEMATICS               	6	B+	19.8
+COMP217        DATA STRUCTURES                    	7	B	21.0
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	B+	19.8
+-----------------------------------------------------------------------------------------
+Total credit earned: 90.6
+Total credit hour: 31.0
+GPA: 2.92 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:EMIN
+Surname		:CELEBI
+Student No	:127150
+Department	:Electronics and Communication Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	A	24.0
+PHYS104        PHYSICS II                         	6	B+	19.8
+COMP209        DISCRETE MATHEMATICS               	6	B+	19.8
+COMP217        DATA STRUCTURES                    	7	B	21.0
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	B+	19.8
+-----------------------------------------------------------------------------------------
+Total credit earned: 104.4
+Total credit hour: 31.0
+GPA: 3.37 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:ADEBOLA
+Surname		:AGBOOLA
+Student No	:164166
+Department	:Management Information Systems
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	A-	22.2
+PHYS104        PHYSICS II                         	6	B	18.0
+COMP209        DISCRETE MATHEMATICS               	6	B	18.0
+COMP217        DATA STRUCTURES                    	7	B	21.0
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	B-	16.2
+-----------------------------------------------------------------------------------------
+Total credit earned: 95.4
+Total credit hour: 31.0
+GPA: 3.08 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:MUSTAFA
+Surname		:CIHAN
+Student No	:170090
+Department	:Computer Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	A	24.0
+PHYS104        PHYSICS II                         	6	B+	19.8
+COMP209        DISCRETE MATHEMATICS               	6	B-	16.2
+COMP217        DATA STRUCTURES                    	7	B	21.0
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	B+	19.8
+-----------------------------------------------------------------------------------------
+Total credit earned: 100.8
+Total credit hour: 31.0
+GPA: 3.25 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:SAHSENEM
+Surname		:KARALI
+Student No	:173032
+Department	:Software Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	A-	22.2
+PHYS104        PHYSICS II                         	6	A-	22.2
+COMP209        DISCRETE MATHEMATICS               	6	B+	19.8
+COMP217        DATA STRUCTURES                    	7	B+	23.1
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	A-	22.2
+-----------------------------------------------------------------------------------------
+Total credit earned: 109.5
+Total credit hour: 31.0
+GPA: 3.53 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:VIGILANCE
+Surname		:DANDE
+Student No	:174758
+Department	:Computer Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	B	18.0
+PHYS104        PHYSICS II                         	6	B	18.0
+COMP209        DISCRETE MATHEMATICS               	6	B-	16.2
+COMP217        DATA STRUCTURES                    	7	B	21.0
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	C-	10.2
+-----------------------------------------------------------------------------------------
+Total credit earned: 83.4
+Total credit hour: 31.0
+GPA: 2.69 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:ZEYNEP
+Surname		:OZ
+Student No	:180377
+Department	:Software Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	B+	19.8
+PHYS104        PHYSICS II                         	6	C+	13.8
+COMP209        DISCRETE MATHEMATICS               	6	A-	22.2
+COMP217        DATA STRUCTURES                    	7	B	21.0
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	B-	16.2
+-----------------------------------------------------------------------------------------
+Total credit earned: 93.0
+Total credit hour: 31.0
+GPA: 3.00 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:MURVET
+Surname		:YAPRAK
+Student No	:180780
+Department	:Software Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	B	18.0
+PHYS104        PHYSICS II                         	6	B	18.0
+COMP209        DISCRETE MATHEMATICS               	6	B+	19.8
+COMP217        DATA STRUCTURES                    	7	B	21.0
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	B+	19.8
+-----------------------------------------------------------------------------------------
+Total credit earned: 96.6
+Total credit hour: 31.0
+GPA: 3.12 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:MUCAHIT
+Surname		:BASTAN
+Student No	:183022
+Department	:Electrical and Electronics Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	A-	22.2
+PHYS104        PHYSICS II                         	6	A	24.0
+COMP209        DISCRETE MATHEMATICS               	6	B	18.0
+COMP217        DATA STRUCTURES                    	7	B	21.0
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	B+	19.8
+-----------------------------------------------------------------------------------------
+Total credit earned: 105.0
+Total credit hour: 31.0
+GPA: 3.39 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:SHANNON
+Surname		:GOVA
+Student No	:184324
+Department	:Electronics and Communication Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	A-	0.0
+PHYS104        PHYSICS II                         	6	B	18.0
+COMP209        DISCRETE MATHEMATICS               	6	A-	22.2
+COMP217        DATA STRUCTURES                    	7	B+	23.1
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	B+	19.8
+-----------------------------------------------------------------------------------------
+Total credit earned: 83.1
+Total credit hour: 31.0
+GPA: 2.68 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:AHMED
+Surname		:WADAN
+Student No	:184640
+Department	:Electrical and Electronics Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	B-	16.2
+PHYS104        PHYSICS II                         	6	B	18.0
+COMP209        DISCRETE MATHEMATICS               	6	B	18.0
+COMP217        DATA STRUCTURES                    	7	B	21.0
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	B	18.0
+-----------------------------------------------------------------------------------------
+Total credit earned: 91.2
+Total credit hour: 31.0
+GPA: 2.94 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:HAZEL
+Surname		:MAFUKIDZE
+Student No	:184687
+Department	:Electrical and Electronics Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	A-	22.2
+PHYS104        PHYSICS II                         	6	A	24.0
+COMP209        DISCRETE MATHEMATICS               	6	A-	22.2
+COMP217        DATA STRUCTURES                    	7	A-	25.9
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	A-	22.2
+-----------------------------------------------------------------------------------------
+Total credit earned: 116.5
+Total credit hour: 31.0
+GPA: 3.76 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:ILYAS
+Surname		:GOCER
+Student No	:192548
+Department	:Computer Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	B+	19.8
+PHYS104        PHYSICS II                         	6	A-	22.2
+COMP209        DISCRETE MATHEMATICS               	6	B	18.0
+COMP217        DATA STRUCTURES                    	7	B+	23.1
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	A-	22.2
+-----------------------------------------------------------------------------------------
+Total credit earned: 105.3
+Total credit hour: 31.0
+GPA: 3.40 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:KUMBIRAI
+Surname		:ZENGENI
+Student No	:194039
+Department	:Software Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	B+	19.8
+PHYS104        PHYSICS II                         	6	A-	22.2
+COMP209        DISCRETE MATHEMATICS               	6	B+	19.8
+COMP217        DATA STRUCTURES                    	7	A	28.0
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	A-	22.2
+-----------------------------------------------------------------------------------------
+Total credit earned: 112.0
+Total credit hour: 31.0
+GPA: 3.61 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:DANIEL
+Surname		:MHLANGA
+Student No	:194057
+Department	:Computer Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	A	24.0
+PHYS104        PHYSICS II                         	6	B-	16.2
+COMP209        DISCRETE MATHEMATICS               	6	B+	19.8
+COMP217        DATA STRUCTURES                    	7	A-	25.9
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	A-	22.2
+-----------------------------------------------------------------------------------------
+Total credit earned: 108.1
+Total credit hour: 31.0
+GPA: 3.49 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:AMIRABBAS
+Surname		:DARGAH
+Student No	:194082
+Department	:Computer Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	B+	19.8
+PHYS104        PHYSICS II                         	6	A	24.0
+COMP209        DISCRETE MATHEMATICS               	6	B+	19.8
+COMP217        DATA STRUCTURES                    	7	B+	23.1
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	A	24.0
+-----------------------------------------------------------------------------------------
+Total credit earned: 110.7
+Total credit hour: 31.0
+GPA: 3.57 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:ISMOIL
+Surname		:HASANOV
+Student No	:194109
+Department	:Electrical and Electronics Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	A-	22.2
+PHYS104        PHYSICS II                         	6	B	18.0
+COMP209        DISCRETE MATHEMATICS               	6	B+	19.8
+COMP217        DATA STRUCTURES                    	7	A-	25.9
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	A-	22.2
+-----------------------------------------------------------------------------------------
+Total credit earned: 108.1
+Total credit hour: 31.0
+GPA: 3.49 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:AHMAD
+Surname		:BADER
+Student No	:194130
+Department	:Software Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	A	24.0
+PHYS104        PHYSICS II                         	6	A	24.0
+COMP209        DISCRETE MATHEMATICS               	6	A-	22.2
+COMP217        DATA STRUCTURES                    	7	B+	23.1
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	A	24.0
+-----------------------------------------------------------------------------------------
+Total credit earned: 117.3
+Total credit hour: 31.0
+GPA: 3.78 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:ABDULLOKH
+Surname		:MUKHAMMADJONOV
+Student No	:194199
+Department	:Software Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	A-	22.2
+PHYS104        PHYSICS II                         	6	B+	19.8
+COMP209        DISCRETE MATHEMATICS               	6	B+	19.8
+COMP217        DATA STRUCTURES                    	7	A	28.0
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	B+	19.8
+-----------------------------------------------------------------------------------------
+Total credit earned: 109.6
+Total credit hour: 31.0
+GPA: 3.54 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:ANTHONY
+Surname		:OLORI
+Student No	:194234
+Department	:Software Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	B+	19.8
+PHYS104        PHYSICS II                         	6	A-	22.2
+COMP209        DISCRETE MATHEMATICS               	6	B	18.0
+COMP217        DATA STRUCTURES                    	7	B+	23.1
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	B+	19.8
+-----------------------------------------------------------------------------------------
+Total credit earned: 102.9
+Total credit hour: 31.0
+GPA: 3.32 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:MUDASSIR
+Surname		:JAMAL
+Student No	:194279
+Department	:Computer Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	A	24.0
+PHYS104        PHYSICS II                         	6	B+	19.8
+COMP209        DISCRETE MATHEMATICS               	6	A-	22.2
+COMP217        DATA STRUCTURES                    	7	B+	25.9
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	B+	19.8
+-----------------------------------------------------------------------------------------
+Total credit earned: 111.7
+Total credit hour: 31.0
+GPA: 3.60 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:IKHOGENEONE
+Surname		:IRUNE
+Student No	:194320
+Department	:Software Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	A	24.0
+PHYS104        PHYSICS II                         	6	B+	19.8
+COMP209        DISCRETE MATHEMATICS               	6	A-	22.2
+COMP217        DATA STRUCTURES                    	7	B+	23.1
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	A-	22.2
+-----------------------------------------------------------------------------------------
+Total credit earned: 111.3
+Total credit hour: 31.0
+GPA: 3.59 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:MUHAMMAD
+Surname		:MANZOOR
+Student No	:194324
+Department	:Electrical and Electronics Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	A-	22.2
+PHYS104        PHYSICS II                         	6	A-	22.2
+COMP209        DISCRETE MATHEMATICS               	6	B+	19.8
+COMP217        DATA STRUCTURES                    	7	B+	23.1
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	A-	22.2
+-----------------------------------------------------------------------------------------
+Total credit earned: 109.5
+Total credit hour: 31.0
+GPA: 3.53 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:TINASHE
+Surname		:MAGAZENI
+Student No	:194432
+Department	:Computer Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	B+	19.8
+PHYS104        PHYSICS II                         	6	A-	22.2
+COMP209        DISCRETE MATHEMATICS               	6	A-	22.2
+COMP217        DATA STRUCTURES                    	7	B+	23.1
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	A-	22.2
+-----------------------------------------------------------------------------------------
+Total credit earned: 109.5
+Total credit hour: 31.0
+GPA: 3.53 
+-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+Name		:NASH
+Surname		:CHIBVURI
+Student No	:194460
+Department	:Electrical and Electronics Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	B+	19.8
+PHYS104        PHYSICS II                         	6	A-	22.2
+COMP209        DISCRETE MATHEMATICS               	6	B	18.0
+COMP217        DATA STRUCTURES                    	7	A-	25.9
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	A	24.0
+-----------------------------------------------------------------------------------------
+Total credit earned: 109.9
+Total credit hour: 31.0
+GPA: 3.55 
+-----------------------------------------------------------------------------------------

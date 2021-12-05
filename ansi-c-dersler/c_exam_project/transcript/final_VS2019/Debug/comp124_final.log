@@ -1,0 +1,15 @@
+﻿  comp124_final.c
+C:\Users\ilyas\Desktop\COMP124_ANSI_C\odev_final_transcript\comp124_final_VS2019\comp124_final.c(304,1): warning C4133: 'initializing': incompatible types - from 'char [25]' to 'FILE *'
+C:\Users\ilyas\Desktop\COMP124_ANSI_C\odev_final_transcript\comp124_final_VS2019\comp124_final.c(306,7): warning C4101: 'buf': unreferenced local variable
+C:\Users\ilyas\Desktop\COMP124_ANSI_C\odev_final_transcript\comp124_final_VS2019\comp124_final.c(425,1): warning C4133: 'initializing': incompatible types - from 'char [29]' to 'FILE *'
+C:\Users\ilyas\Desktop\COMP124_ANSI_C\odev_final_transcript\comp124_final_VS2019\comp124_final.c(473,1): warning C4133: 'initializing': incompatible types - from 'char [24]' to 'FILE *'
+C:\Users\ilyas\Desktop\COMP124_ANSI_C\odev_final_transcript\comp124_final_VS2019\comp124_final.c(560,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ilyas\Desktop\COMP124_ANSI_C\odev_final_transcript\comp124_final_VS2019\comp124_final.c(575,1): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\ilyas\Desktop\COMP124_ANSI_C\odev_final_transcript\comp124_final_VS2019\comp124_final.c(654,24): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ilyas\Desktop\COMP124_ANSI_C\odev_final_transcript\comp124_final_VS2019\comp124_final.c(664,21): warning C4047: '==': 'char *' differs in levels of indirection from 'int'
+C:\Users\ilyas\Desktop\COMP124_ANSI_C\odev_final_transcript\comp124_final_VS2019\comp124_final.c(665,21): warning C4047: '==': 'char *' differs in levels of indirection from 'int'
+C:\Users\ilyas\Desktop\COMP124_ANSI_C\odev_final_transcript\comp124_final_VS2019\comp124_final.c(673,61): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+C:\Users\ilyas\Desktop\COMP124_ANSI_C\odev_final_transcript\comp124_final_VS2019\comp124_final.c(673,61): warning C4024: 'str_fall_spring': different types for formal and actual parameter 1
+C:\Users\ilyas\Desktop\COMP124_ANSI_C\odev_final_transcript\comp124_final_VS2019\comp124_final.c(765,1): warning C4133: 'initializing': incompatible types - from 'char [24]' to 'FILE *'
+C:\Users\ilyas\Desktop\COMP124_ANSI_C\odev_final_transcript\comp124_final_VS2019\comp124_final.c(808,17): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *'
+  comp124_final.vcxproj -> C:\Users\ilyas\Desktop\COMP124_ANSI_C\odev_final_transcript\comp124_final_VS2019\Debug\comp124_final.exe

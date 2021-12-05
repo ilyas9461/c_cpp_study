@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------------------
+Name		:AHMED
+Surname		:WADAN
+Student No	:184640
+Department	:Electrical and Electronics Engineering
+-----------------------------------------------------------------------------------------
+Academic year :2019-20 Semester : Fall
+-----------------------------------------------------------------------------------------
+Course Code    Course Title                       	Credit	Grade	Credit earned
+MATH101        CALCULUS I                         	6	B-	16.2
+PHYS104        PHYSICS II                         	6	B	18.0
+COMP209        DISCRETE MATHEMATICS               	6	B	18.0
+COMP217        DATA STRUCTURES                    	7	B	21.0
+COMP219        ELECTRONICS FOR COMPUTER ENGINEERS 	6	B	18.0
+-----------------------------------------------------------------------------------------
+Total credit earned: 91.2
+Total credit hour: 31.0
+GPA: 2.94 
+-----------------------------------------------------------------------------------------
