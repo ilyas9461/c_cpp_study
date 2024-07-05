@@ -1,26 +1,26 @@
 
 
 <p  align="left" >
- <h1 align="center">C ve C++  ile İlgili Çalışmalar</h1>
-<h1 align="center">Slaytlar-Veri Yapıları-Problem Çözümleri-Projeler</h1>
+ <h1 align="center">Studies on C and C++</h1>
+<h1 align="center">Slides-Data Structures-Problem Solutions-Projects</h1>
 
 <img src="img/ada.jpg" alt="pelus" width="30%" height="20%" align="left" style="margin:10px">
 </p>
 
 
-2019-20 yıllarında hazırlamış olduğum c ve c++ ile ilgili çeşitli çalışmalar burada yer almaktadır. 
+Various studies on C and C++ that I prepared in 2019-20 are included here. With these studies, voluntary and private lessons were given to two different groups of university students. These students were studying in electronics and computer engineering departments.
 
-Bu dökümanlar  çeşitli seviyelerdeki üniversite öğrencilerinin ilgili derslerine yardımcı olması amacı ile hazırlanmıştır. Başlangıç seviyesi kaynaklar taranmış orta ve ileri seviyeye de hitap edebilecek formatta sunumlar hazırlanarak örnek çözümler konulmuştur.
+In addition, these documents have been prepared to assist university students at various levels in their relevant courses. Beginner-level resources have been scanned, presentations have been prepared in a format that can also appeal to intermediate and advanced levels, and sample solutions have been included..
 
-Özellikle pandemi döneminde online ve yüz yüze farklı öğrencilerle paylaşılmıştır. İçerikler sunulmuş, hazırlanan problemler çözülmüştür. Öğrencilerden gelen proje tadında  çalışmalar da konularak ileri seviye uygulamalar yapılmıştır.
-
-
-İlgilenen herkes için başvuru niteliğinde olması amaçlanmıştır. Konulan örneklerin büyük çoğunluğu çalıştırılmıştır. Proje çalışması seviyesinde örnekler ve çözümler de mevcuttur. Projelerin çalıştırılması için gererli tüm dosyalar da klasörlerin içeriğine konulmuştur.
+It was shared online and face to face with different students, especially during the pandemic period. The contents were presented and the prepared problems were solved. Advanced applications were carried out by including students in project-like studies.
 
 
-Umarım ilgilenenlere faydalı olur...
+It is intended as a reference for those interested. The majority of the included samples have been run. Examples and solutions at the project work level are also available. All files required to run projects are also located in the folders.
 
-## İletişim
+
+I hope it will be useful to those interested...
+
+
 
 - GitHub [@your-ilyas9461](https://github.com/ilyas9461)
 - Linkedin [@your-linkedin](https://www.linkedin.com/in/ilyas-yagcioglu/)
